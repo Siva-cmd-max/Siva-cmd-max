@@ -26,24 +26,10 @@ Authentication and Secure Application Design
 
 ## Technical Stack
 
-### Frontend
-HTML  
-CSS  
-JavaScript  
-React  
-
-### Backend
-ASP.NET Core  
-Node.js  
-
-### Database
-SQL Server  
-MongoDB  
-
-### Tools
-Git  
-GitHub  
-Visual Studio Code  
+Frontend: HTML, CSS, JavaScript, React  
+Backend: ASP.NET Core, Node.js  
+Database: SQL Server, MongoDB  
+Tools: Git, GitHub, Visual Studio Code 
 
 ---
 
@@ -79,5 +65,7 @@ System for handling bulk operations and improving efficiency
 
 ## Contact
 
-LinkedIn: Add your link  
-Email: Add your email  
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/sivatech630  
+Email: sivavenkatanagasai2@gmail.com  
