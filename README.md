@@ -13,21 +13,19 @@ I focus on writing clean code, solving real problems, and continuously improving
 
 ---
 
-## Core Skills
+## Technical Stack
 
-Full Stack Development  
-Frontend Development using HTML, CSS, JavaScript, React  
-Backend Development using ASP.NET Core and Node.js  
-Database Management using SQL Server and MongoDB  
-REST API Development and Integration  
-Authentication and Secure Application Design  
+Frontend: HTML, CSS, JavaScript, React  
+Backend: ASP.NET Core, Node.js, Python  
+Database: SQL Server, MongoDB  
+Tools: Git, GitHub, Visual Studio Code    
 
 ---
 
 ## Technical Stack
 
 Frontend: HTML, CSS, JavaScript, React  
-Backend: ASP.NET Core, Node.js  
+Backend: ASP.NET Core, Node.js, Python (FastAPI, Flask)
 Database: SQL Server, MongoDB  
 Tools: Git, GitHub, Visual Studio Code 
 
