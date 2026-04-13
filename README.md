@@ -53,16 +53,6 @@ System for handling bulk operations and improving efficiency
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siva-cmd-max&show_icons=true" />
-</p>
-
----
-
-## Contact
-
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/sivatech630  
